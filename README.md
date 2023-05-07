@@ -32,4 +32,9 @@ https://shangchenzhou.com/projects/CodeFormer/
 
 ![image](https://user-images.githubusercontent.com/39978335/236662901-8efa15c0-f26b-4f6f-aca7-c9b019bffe4c.png)
 
+https://replicate.com/sczhou/codeformer
+
+![image](https://user-images.githubusercontent.com/39978335/236662947-91e7d6f0-5d13-466a-a931-66b5c2e9257b.png)
+
+
 
